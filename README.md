@@ -7,10 +7,6 @@ A primeira tela consiste em uma tela de login, solicidando usuário + senha;
 A segunda tela consiste em um jogo da velha básico, que consegue sinalizar o vencedor da rodada ou se foi empate;
 Também tem a tela de registo, caso o usuário não tenha dados de login.</p>
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
-</h4>
-
 ### Features
 
 - [x] Cadastro de usuário
